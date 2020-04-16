@@ -1,2 +1,2 @@
-server:
-	port: 8088
+config:
+  info: "this is dev"
